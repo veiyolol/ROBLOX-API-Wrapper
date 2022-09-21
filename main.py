@@ -1,4 +1,4 @@
-from roblox_api_wrapper import login, message
+from roblox import login, message
 
 recipient = "targetsusername"
 sender = "ROBLOX"
